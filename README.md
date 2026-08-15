@@ -57,29 +57,7 @@
 
 ---
 
-### 📊 **آمار زنده گیت‌هاب**
-
 <div align="center">
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadMehdiArjmandManesh1386&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMehdiArjmandManesh1386&layout=compact&theme=tokyonight" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMehdiArjmandManesh1386&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-### 🐍 **فعالیت‌های گیت‌هاب (Contribution Activity)**
-
-<div align="center">
-  <img src="https://koshiro.vercel.app/api/github-contribution-graph?username=MohammadMehdiArjmandManesh1386&theme=tokyonight" alt="Contribution graph" />
-</div>
-
----
-<div align="center">
-  <sub>طراحی شده برای محمد مهدی ارجمند منش ❤️</sub>
+  <h3>🌐 <a href="https://MohammadMehdiArjmandManesh1386.github.io/portfolio/">رزومه و نمونه‌کارهای محمد مهدی ارجمند منش</a></h3>
 </div>
