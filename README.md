@@ -52,8 +52,8 @@
 
 | نام پروژه | دسته‌بندی | توضیحات | لینک |
 | :--- | :--- | :--- | :---: |
-| 🛡️ **Dizyno VPN (Cloudflare)** | پنل ابری و ربات | پنل مدیریت کامل VLESS/Trojan روی کلودفلر ورکر همراه ربات تلگرام | [ریپازیتوری](https://github.com/Hsdhugdw/claudeflare-dizynopanel) |
-| ⚡ **Dizyno VPN (Railway)** | پنل سرور اختصاصی | پنل مدیریت با هسته Sing-box، دشبورد تیره و مدیریت ترافیک | [ریپازیتوری](https://github.com/Hsdhugdw/railway-dizynopanel) |
+| 🛡️ **Dizyno VPN (Cloudflare)** | پنل ابری و ربات | پنل مدیریت کامل VLESS/Trojan روی کلودفلر ورکر همراه ربات تلگرام | [ریپازیتوری](https://github.com/MohammadMehdiArjmandManesh1386/claudeflare-dizynopanel) |
+| ⚡ **Dizyno VPN (Railway)** | پنل سرور اختصاصی | پنل مدیریت با هسته Sing-box، دشبورد تیره و مدیریت ترافیک | [ریپازیتوری](https://github.com/MohammadMehdiArjmandManesh1386/railway-dizynopanel) |
 
 ---
 
@@ -61,22 +61,22 @@
 
 <div align="center">
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hsdhugdw&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsdhugdw&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadMehdiArjmandManesh1386&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMehdiArjmandManesh1386&layout=compact&theme=tokyonight" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hsdhugdw&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadMehdiArjmandManesh1386&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🐍 **فعالیت‌های گیت‌هاب (Snake Graph)**
+### 🐍 **فعالیت‌های گیت‌هاب (Contribution Activity)**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hsdhugdw/Hsdhugdw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://koshiro.vercel.app/api/github-contribution-graph?username=MohammadMehdiArjmandManesh1386&theme=tokyonight" alt="Contribution graph" />
 </div>
 
 ---
