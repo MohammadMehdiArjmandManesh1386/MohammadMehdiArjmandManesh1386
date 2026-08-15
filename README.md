@@ -12,7 +12,7 @@
 
   <!-- پل‌های ارتباطی -->
   <p align="center">
-    <a href="mailto:JACKLONY2010@GMAIL.COM"><img src="https://img.shields.io/badge/Email-JACKLONY2010%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:jacklony2010@gmail.com"><img src="https://img.shields.io/badge/Email-JACKLONY2010%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="tel:09052237518"><img src="https://img.shields.io/badge/Phone-09052237518-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
   </p>
 
